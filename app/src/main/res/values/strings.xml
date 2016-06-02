@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleDbApp</string>
+    <string name="get_all_tables">Get All Tables</string>
+</resources>

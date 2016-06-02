@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('snapshotAndroidlibrary-b201605251319_v5dddca9-snapshotRelease.aar'))
